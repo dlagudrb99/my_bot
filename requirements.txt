@@ -1,1 +1,4 @@
 discord.py[voice]
+asyncio.py
+websockets.py
+aiohttp.py
